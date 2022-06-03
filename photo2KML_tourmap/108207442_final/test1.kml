@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom ">
+<Folder>
+<Placemark>  
+  <name>IMG20210106122904.jpg</name>  
+  <description>IMG20210106122904.jpg 
+    <p><img alt="" src="reImg/re_IMG20210106122904.jpg" width="244" height="244" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57444444444444,24.979444444444443,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_1276.JPG</name>  
+  <description>IMG_1276.JPG 
+    <p><img alt="" src="reImg/re_IMG_1276.JPG" width="403" height="302" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57788055555555,24.980441666666664,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_1277.JPG</name>  
+  <description>IMG_1277.JPG 
+    <p><img alt="" src="reImg/re_IMG_1277.JPG" width="403" height="302" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57790277777778,24.980427777777777,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_1278.JPG</name>  
+  <description>IMG_1278.JPG 
+    <p><img alt="" src="reImg/re_IMG_1278.JPG" width="403" height="302" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57785833333332,24.980438888888887,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_1281.JPG</name>  
+  <description>IMG_1281.JPG 
+    <p><img alt="" src="reImg/re_IMG_1281.JPG" width="403" height="302" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57791944444445,24.980755555555554,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_20200905_115733.jpg</name>  
+  <description>IMG_20200905_115733.jpg 
+    <p><img alt="" src="reImg/re_IMG_20200905_115733.jpg" width="300" height="400" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.575462,24.98682,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_20200905_145411.jpg</name>  
+  <description>IMG_20200905_145411.jpg 
+    <p><img alt="" src="reImg/re_IMG_20200905_145411.jpg" width="300" height="400" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57194199999999,24.978123999999998,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_20200912_172322.jpg</name>  
+  <description>IMG_20200912_172322.jpg 
+    <p><img alt="" src="reImg/re_IMG_20200912_172322.jpg" width="400" height="300" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57217197222222,24.97798097222222,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_20200912_172559.jpg</name>  
+  <description>IMG_20200912_172559.jpg 
+    <p><img alt="" src="reImg/re_IMG_20200912_172559.jpg" width="300" height="400" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57227297222222,24.978219999999997,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_20200912_172618.jpg</name>  
+  <description>IMG_20200912_172618.jpg 
+    <p><img alt="" src="reImg/re_IMG_20200912_172618.jpg" width="300" height="400" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.572265,24.97821797222222,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_20200912_173337.jpg</name>  
+  <description>IMG_20200912_173337.jpg 
+    <p><img alt="" src="reImg/re_IMG_20200912_173337.jpg" width="400" height="300" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57208197222222,24.97824997222222,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_20200912_174514.jpg</name>  
+  <description>IMG_20200912_174514.jpg 
+    <p><img alt="" src="reImg/re_IMG_20200912_174514.jpg" width="400" height="300" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57209197222222,24.978411972222222,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>IMG_20200922_152534.jpg</name>  
+  <description>IMG_20200922_152534.jpg 
+    <p><img alt="" src="reImg/re_IMG_20200922_152534.jpg" width="300" height="400" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.576374,24.980087972222222,0</coordinates>  
+  </Point>  
+</Placemark>  
+<Placemark>  
+  <name>P_20201231_161352.jpg</name>  
+  <description>P_20201231_161352.jpg 
+    <p><img alt="" src="reImg/re_P_20201231_161352.jpg" width="302" height="403" /></p> 
+    <p><a href="http://www.nccu.edu.tw/">http://www.nccu.edu.tw/</a></p>  
+  </description> 
+  <Point>  
+    <coordinates>121.57356666666666,24.987566666666666,0</coordinates>  
+  </Point>  
+</Placemark>  
+</Folder>
+</kml>

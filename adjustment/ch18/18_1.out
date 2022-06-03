@@ -1,0 +1,39 @@
+Two Dimensional Affine Coordinate Transformation of File> 18_1.txt
+------------------------------------------------------------------
+
+Survey transformation
+~~~~~~~~~~~~~~~~~~~~~
+
+ax + by + c = X + VX
+dx + ey + f = Y + VY
+
+Transformed Control Points
+     POINT         X            Y         VX        VY
+---------------------------------------------------------
+         A     -112.442     -112.113   -0.001    0.001
+         B     -112.485      112.082    0.002   -0.002
+         C      112.398      112.097   -0.001    0.002
+         D      112.102     -112.436    0.001   -0.001
+
+Transformation Parameters, estimated errors, and t-values
+ a =     0.920132 ±   0.0000132    t-value: 69778.34
+ b =     0.391752 ±   0.0000134    t-value: 29290.70
+ c =       -0.015 ±       0.001    t-value: 10.06
+ d =    -0.391754 ±   0.0000126    t-value: 31111.61
+ e =     0.920112 ±   0.0000123    t-value: 74914.44
+ f =        0.028 ±       0.001    t-value: 20.35
+
+Adjustment's Reference Variance = 1.200706
+Standard deviation of Unit Weight: 1.0958
+
+Transformed Points
+     POINT         X            Y        ±Sx       ±Sy
+------------------------------------------------------
+         A     -112.443     -112.112    0.003    0.002
+         B     -112.483      112.080    0.003    0.003
+         C      112.397      112.099    0.003    0.002
+         D      112.103     -112.437    0.002    0.002
+         1     -112.497       -3.041    0.002    0.002
+         2       80.678       77.826    0.002    0.002
+
+Matrices are written in the file D:\onedrive\¾Ç®Õ½Ò¥ó\110¤W\¥­®t¤G\§@·~µ{¦¡\ch18\18_1.MAT

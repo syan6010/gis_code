@@ -1,0 +1,43 @@
+Two Dimensional Projective Coordinate Transformation of File > 18_14.txt
+------------------------------------------------------------------------
+
+Survey transformation
+~~~~~~~~~~~~~~~~~~~~~
+a1x + b1y + c1
+---------------  = X + VX
+a3x + b3y + 1
+
+a2x + b2y + c2
+---------------  = Y + VY
+a3x + b3y + 1
+
+Transformation Parameters, estimated errors, and t-values:
+a1 =      0.73666 ±0.37198    t-value: 1.98
+b1 =      0.62346 ±0.38495    t-value: 1.62
+c1 =      284.438 ±0.07520    t-value: 3782.44
+a2 =      0.24096 ±0.20381    t-value: 1.18
+b2 =      1.27600 ±0.21400    t-value: 5.96
+c2 =      150.658 ±0.07961    t-value: 1892.36
+a3 =     -0.00155 ±0.00125    t-value: 1.25
+b3 =      0.00047 ±0.00130    t-value: 0.36
+
+                         Reference Variance = 1.528556                         
+                   Standard deviation of unit weight = 1.2363                   
+                            Number of Iteration = 2                            
+
+Transformed Control Points
+     POINT         X            Y         VX        VY
+----------------------------------------------------------
+         A      286.941      153.211    0.001   -0.019
+         B      300.000      162.995    0.060    0.015
+         C      291.526      164.129    0.046    0.019
+         D      296.708      166.200   -0.102   -0.010
+         E      302.215      168.412    0.035    0.002
+         F      299.906      162.928   -0.044   -0.052
+         G      297.650      157.575   -0.010    0.045
+
+Transformed Points
+     POINT         X            Y        ±Sx       ±Sy
+----------------------------------------------------------
+
+Matrices are listed in the file D:\onedrive\¾Ç®Õ½Ò¥ó\110¤W\¥­®t¤G\§@·~µ{¦¡\ch18\18_14.MAT

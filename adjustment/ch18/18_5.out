@@ -1,0 +1,46 @@
+Two Dimensional Projective Coordinate Transformation of File > 18_5.txt
+-----------------------------------------------------------------------
+
+TWO-DIMENSIONAL PROJECTIVE COORDINATE TRANSFORMATION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a1x + b1y + c1
+---------------  = X + VX
+a3x + b3y + 1
+
+a2x + b2y + c2
+---------------  = Y + VY
+a3x + b3y + 1
+
+Transformation Parameters, estimated errors, and t-values:
+a1 =      0.21109 ±0.00012    t-value: 1745.12
+b1 =     -0.17658 ±0.00006    t-value: 2754.03
+c1 =       -3.067 ±0.01607    t-value: 190.85
+a2 =      0.51389 ±0.00010    t-value: 5112.81
+b2 =     -0.01989 ±0.00006    t-value: 314.31
+c2 =      -50.658 ±0.01378    t-value: 3676.11
+a3 =     -0.00691 ±0.00000    t-value: 24385.32
+b3 =      0.00414 ±0.00000    t-value: 14066.13
+
+                         Reference Variance = 9.114911                         
+                   Standard deviation of unit weight = 3.0191                   
+                            Number of Iteration = 2                            
+
+Transformed Control Points
+     POINT         X            Y         VX        VY
+----------------------------------------------------------
+         1     -105.988     -105.894    0.017    0.008
+         2      105.978      106.118   -0.017   -0.036
+         3     -105.967      105.922   -0.002   -0.018
+         4      105.715     -105.999    0.019   -0.009
+         5     -112.023       -0.045   -0.018   -0.019
+         6      111.945       -0.094    0.005    0.016
+         7        0.088      112.144    0.023    0.054
+         8       -0.028     -111.992   -0.022    0.001
+
+Transformed Points
+     POINT         X            Y        ±Sx       ±Sy
+----------------------------------------------------------
+         9       23.484       86.255    0.018    0.015
+        10      -53.037      -36.128    0.015    0.015
+
+Matrices are listed in the file D:\onedrive\¾Ç®Õ½Ò¥ó\110¤W\¥­®t¤G\§@·~µ{¦¡\ch18\18_5.MAT
